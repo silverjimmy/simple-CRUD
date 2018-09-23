@@ -78,7 +78,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Simple CRUD App
+                    Employee Simple CRUD App
                 </div>
             </div>
         </div>
